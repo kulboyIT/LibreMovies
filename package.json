@@ -8,6 +8,7 @@
     "build": "cd android && ./gradlew assembleRelease"
   },
   "dependencies": {
+    "app-icon": "^0.6.3",
     "react": "16.3.1",
     "react-native": "0.55.1"
   },
